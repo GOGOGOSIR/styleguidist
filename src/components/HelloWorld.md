@@ -1,0 +1,3 @@
+```vue
+<HelloWorld></HelloWorld>
+```
